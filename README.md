@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/stijnvanhulle" target="blank"><img src="https://img.shields.io/twitter/follow/stijnvanhulle?logo=twitter&style=for-the-badge" alt="stijnvanhulle" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [www.stijnvanhulle.be](www.stijnvanhulle.be)
+- 👨‍💻 All of my projects are available at [www.stijnvanhulle.be](https://www.stijnvanhulle.be)
 
 - 📫 How to reach me **stijn@stijnvanhulle.be**
 
