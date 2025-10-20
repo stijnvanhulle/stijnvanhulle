@@ -4,8 +4,8 @@ Hello 👋 My name is Stijn and I am currently developing [Kubb](https://www.kub
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kubb-labs/kubb/main/assets/logo.png" width="700">
-    <img alt="Kubb banner" src="https://raw.githubusercontent.com/kubb-labs/kubb/main/assets/logo.png" width="700">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kubb-labs/kubb/main/assets/logo.png" width="300">
+    <img alt="Kubb banner" src="https://raw.githubusercontent.com/kubb-labs/kubb/main/assets/logo.png" width="300">
   </picture>
 </p>
 
