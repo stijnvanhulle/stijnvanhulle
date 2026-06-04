@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Stijn 👋</h1>
 
 <p align="center">
-  Belgium-based software engineer building developer tools.<br/>
+  Belgium-based senior front-end engineer who loves TypeScript and building product front-ends with React, Next.js, Vue and Nuxt.<br/>
   Creator and maintainer of <a href="https://www.kubb.dev/">Kubb</a> — generate SDKs for all your OpenAPI specs with a dedicated plugin system.
 </p>
 
@@ -16,8 +16,7 @@
 
 ## 🚀 What I'm building
 
-- **[Kubb](https://github.com/kubb-labs/kubb)** — OpenAPI to TypeScript, React Query, Zod, Axios and more, powered by a plugin system. MIT licensed and free to use.
-- **[js-runtime](https://github.com/stijnvanhulle/js-runtime)** — Detect which JavaScript runtime is being used.
+- **[Kubb](https://github.com/kubb-labs/kubb)** — OpenAPI to TypeScript, React Query, Zod, Axios and more, powered by a plugin system. MIT licensed and free to use. It started as a small tool to save me from hand-writing the same typed API clients over and over.
 
 ## ❤️ Sponsor my work
 
@@ -43,6 +42,8 @@ Kubb is fully open source. If it saves you time, please consider [sponsoring](ht
 
 <a href="https://reactjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/react.svg" alt="React" width="25" height="25" /></a>
 <a href="https://nextjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/nextjs.svg" alt="Next.js" width="25" height="25" /></a>
+<a href="https://vuejs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/vue.svg" alt="Vue" width="25" height="25" /></a>
+<a href="https://nuxt.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/nuxtjs.svg" alt="Nuxt" width="25" height="25" /></a>
 <a href="https://redux.js.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/redux.svg" alt="Redux" width="25" height="25" /></a>
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/sass.svg" alt="SASS" width="25" height="25" /></a>
 
@@ -58,9 +59,11 @@ Kubb is fully open source. If it saves you time, please consider [sponsoring](ht
 <a href="http://expressjs.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/backend/express.svg" alt="Express" width="25" height="25" /></a>
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/backend/mysql.svg" alt="MySQL" width="25" height="25" /></a>
 
-## 📷 Photography
+## 🌱 When I'm not coding
 
-When I'm not writing code, you'll find me behind a camera.
+Travelling with a camera in my bag, hanging out with friends over board games, road tripping, or out hiking somewhere in nature.
+
+## 📷 Photography
 
 <a href="https://stijn.photography/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/utils/browser.svg" alt="stijn.photography" width="25" height="25" /></a>
 <a href="https://www.adobe.com/products/lightroom.html" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/software/lightroom.svg" alt="Lightroom" width="25" height="25" /></a>
