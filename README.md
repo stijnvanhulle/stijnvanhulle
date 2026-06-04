@@ -1,11 +1,18 @@
-### Hi, I'm Stijn 👋
+# Hello! 👋
 
-Senior front-end engineer from Belgium. I work mostly with TypeScript, React, Next.js, Vue and Nuxt.
+I'm Stijn.
 
-I build and maintain **[Kubb](https://www.kubb.dev/)** — a plugin-based code generator that turns OpenAPI specs into TypeScript, React Query, Zod, Axios and more. MIT licensed and free to use.
+I am a Senior Frontend Engineer based in Belgium.
 
-If Kubb saves you time, please consider [sponsoring](https://github.com/sponsors/stijnvanhulle) ❤️
+I work mostly with TypeScript, React, Next.js, Vue and Nuxt.
 
-When I'm not coding, I'm usually travelling with a camera — see [stijn.photography](https://stijn.photography/).
+I build and maintain Kubb, a code generator with a plugin system that turns OpenAPI specs into TypeScript, React Query, Zod, Axios and more.
 
-**Find me online:** [website](https://stijnvanhulle.be) · [blog](https://blog.stijnvanhulle.be) · [twitter](https://twitter.com/stijnvanhulle) · [linkedin](https://www.linkedin.com/in/stijnvanhulle) · [email](mailto:stijn@stijnvanhulle.be)
+* 🐙 Kubb: https://github.com/kubb-labs/kubb
+* 📖 Kubb docs: https://www.kubb.dev
+* 💖 Sponsor: https://github.com/sponsors/stijnvanhulle
+* 🌐 Website: https://stijnvanhulle.be
+* ✍️ Blog: https://blog.stijnvanhulle.be
+* 🐦 Twitter: https://twitter.com/stijnvanhulle
+* 💼 LinkedIn: https://www.linkedin.com/in/stijnvanhulle
+* 📩 Email: stijn@stijnvanhulle.be
